@@ -15,3 +15,9 @@ __pycache__/
 .code_index/
 api_test_report.xlsx
 project_report.docx
+.env*
+!.env.example
+generate_api_report.py
+generate_project_report.py
+generate_changes_report.py
+send_report_email.py
